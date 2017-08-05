@@ -2,6 +2,10 @@
 
 This is a application scope proxy extension for keepass.
 
+## requirement
+
+* Keepass 2.36+
+
 ## Usage
 
 1. Download newest release from [here](https://github.com/Cologler/keepass-proxy/releases).
